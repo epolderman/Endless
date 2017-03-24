@@ -5,3 +5,5 @@ Partner(s): Worked closely with a Level Designer, UI artist, & gameplay programm
 Inspired by: Adr1ft, Starcraft<br>
 Art: Adobe Photoshop / Illustrator <br>
 IDE: Visual Studio<br>
+My work centers in the Menu Assets folder & HUD<br>
+Art assets not included
