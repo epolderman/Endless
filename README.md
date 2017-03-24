@@ -1,2 +1,7 @@
 # Endless-Online-Game
-3D UI. Six Person Online Game. Unity. 
+Applicaton Type: Space Game (Linux, Mac, Windows) <br>
+Description: A 2D 6 player online multiplayer game. UI is built in 3D.<br>
+Partner(s): Worked closely with a Level Designer, UI artist, & gameplay programmer<br>
+Inspired by: Adr1ft, Starcraft<br>
+Art: Adobe Photoshop / Illustrator <br>
+IDE: Visual Studio<br>
