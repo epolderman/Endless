@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9987dfda15dae284dbb857d5365406f1
+timeCreated: 1462408056
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MechaMovie: {fileID: 15200000, guid: b7a0131fa30d7ec43990709c45ced150, type: 3}
+  - JupiterMovie: {fileID: 15200000, guid: 0654dd887d9fa9a40b54435f3819d3c9, type: 3}
+  - SoulMovie: {fileID: 15200000, guid: c19774300740fdd4c93ce2f77b6ba4d0, type: 3}
+  - LockOnMovie: {fileID: 15200000, guid: e31cc087c403ed44da65e66426e19583, type: 3}
+  - ArbiterMovie: {fileID: 15200000, guid: 1d7ed6153ad6f0c44bb7ffd838e54105, type: 3}
+  - ClankMovie: {fileID: 15200000, guid: f63f295face8cd94281f2dda286938bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

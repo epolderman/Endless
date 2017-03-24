@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 3d0c382456a637e4dbb880b57eee30c7
+timeCreated: 1459192129
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smallasteroidsprite_0
+    21300002: smallasteroidsprite_1
+    21300004: smallasteroidsprite_2
+    21300006: smallasteroidsprite_3
+    21300008: smallasteroidsprite_4
+    21300010: smallasteroidsprite_5
+    21300012: smallasteroidsprite_6
+    21300014: smallasteroidsprite_7
+    21300016: smallasteroidsprite_8
+    21300018: smallasteroidsprite_9
+    21300020: smallasteroidsprite_10
+    21300022: smallasteroidsprite_11
+    21300024: smallasteroidsprite_12
+    21300026: smallasteroidsprite_13
+    21300028: smallasteroidsprite_14
+    21300030: smallasteroidsprite_15
+    21300032: smallasteroidsprite_16
+    21300034: smallasteroidsprite_17
+    21300036: smallasteroidsprite_18
+    21300038: smallasteroidsprite_19
+    21300040: smallasteroidsprite_20
+    21300042: smallasteroidsprite_21
+    21300044: smallasteroidsprite_22
+    21300046: smallasteroidsprite_23
+    21300048: smallasteroidsprite_24
+    21300050: smallasteroidsprite_25
+    21300052: smallasteroidsprite_26
+    21300054: smallasteroidsprite_27
+    21300056: smallasteroidsprite_28
+    21300058: smallasteroidsprite_29
+    21300060: smallasteroidsprite_30
+    21300062: smallasteroidsprite_31
+    21300064: smallasteroidsprite_32
+    21300066: smallasteroidsprite_33
+    21300068: smallasteroidsprite_34
+    21300070: smallasteroidsprite_35
+    21300072: smallasteroidsprite_36
+    21300074: smallasteroidsprite_37
+    21300076: smallasteroidsprite_38
+    21300078: smallasteroidsprite_39
+    21300080: smallasteroidsprite_40
+    21300082: smallasteroidsprite_41
+    21300084: smallasteroidsprite_42
+    21300086: smallasteroidsprite_43
+    21300088: smallasteroidsprite_44
+    21300090: smallasteroidsprite_45
+    21300092: smallasteroidsprite_46
+    21300094: smallasteroidsprite_47
+    21300096: smallasteroidsprite_48
+    21300098: smallasteroidsprite_49
+    21300100: smallasteroidsprite_50
+    21300102: smallasteroidsprite_51
+    21300104: smallasteroidsprite_52
+    21300106: smallasteroidsprite_53
+    21300108: smallasteroidsprite_54
+    21300110: smallasteroidsprite_55
+    21300112: smallasteroidsprite_56
+    21300114: smallasteroidsprite_57
+    21300116: smallasteroidsprite_58
+    21300118: smallasteroidsprite_59
+    21300120: smallasteroidsprite_60
+    21300122: smallasteroidsprite_61
+    21300124: smallasteroidsprite_62
+    21300126: smallasteroidsprite_63
+    21300128: smallasteroidsprite_64
+    21300130: smallasteroidsprite_65
+    21300132: smallasteroidsprite_66
+    21300134: smallasteroidsprite_67
+    21300136: smallasteroidsprite_68
+    21300138: smallasteroidsprite_69
+    21300140: smallasteroidsprite_70
+    21300142: smallasteroidsprite_71
+    21300144: smallasteroidsprite_72
+    21300146: smallasteroidsprite_73
+    21300148: smallasteroidsprite_74
+    21300150: smallasteroidsprite_75
+    21300152: smallasteroidsprite_76
+    21300154: smallasteroidsprite_77
+    21300156: smallasteroidsprite_78
+    21300158: smallasteroidsprite_79
+    21300160: smallasteroidsprite_80
+    21300162: smallasteroidsprite_81
+    21300164: smallasteroidsprite_82
+    21300166: smallasteroidsprite_83
+    21300168: smallasteroidsprite_84
+    21300170: smallasteroidsprite_85
+    21300172: smallasteroidsprite_86
+    21300174: smallasteroidsprite_87
+    21300176: smallasteroidsprite_88
+    21300178: smallasteroidsprite_89
+    21300180: smallasteroidsprite_90
+    21300182: smallasteroidsprite_91
+    21300184: smallasteroidsprite_92
+    21300186: smallasteroidsprite_93
+    21300188: smallasteroidsprite_94
+    21300190: smallasteroidsprite_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: smallasteroidsprite_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 250
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 251
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 248
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 249
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 250
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 252
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 254
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 254
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 253
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 252
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 252
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 249
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 250
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 209
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 203
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 202
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 199
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 203
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 206
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 201
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 203
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 202
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 202
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 201
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 198
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 199
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 201
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 200
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 156
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 158
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 157
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 158
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 158
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 156
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 157
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_41
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 154
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_42
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 149
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_43
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 153
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 152
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 148
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_46
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 148
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_47
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 147
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 111
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 112
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 109
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 104
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 105
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_58
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 103
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 104
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_60
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 105
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 101
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_62
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 104
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_63
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 101
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 66
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 62
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_69
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_70
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 69
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 62
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_72
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 59
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 56
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_74
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 55
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 56
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_76
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 56
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_77
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 56
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_78
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 57
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_79
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 58
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_84
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 20
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 23
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_87
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_88
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 10
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_90
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 8
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_91
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 10
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_92
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 5
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_93
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 11
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_94
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smallasteroidsprite_95
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 10
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
